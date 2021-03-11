@@ -1,0 +1,12 @@
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.deps.json
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.runtimeconfig.json
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.runtimeconfig.dev.json
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.dll
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/bin/Debug/netcoreapp3.1/SnakeGame.pdb
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.csprojAssemblyReference.cache
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.AssemblyInfoInputs.cache
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.AssemblyInfo.cs
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.dll
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.pdb
+/Users/adilzanjumakanov/Documents/KBTU/4 semester/ICT/SnakeGame/SnakeGame/obj/Debug/netcoreapp3.1/SnakeGame.genruntimeconfig.cache
